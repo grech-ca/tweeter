@@ -34,13 +34,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "./next.config.js",
-    "./.imports.eslintrc.js",
-    "./.eslintrc.js",
-    "./tailwind.config.js",
-    "./postcss.config.js"
+    "./*.js"
   ],
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }
